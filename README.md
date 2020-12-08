@@ -7,10 +7,15 @@ Update **[chromedriver.exe](https://sites.google.com/a/chromium.org/chromedriver
 **Working fine with Python 3.x**
 - Create a virtual Enviournments
 - Activate your virtual Enviournment
+
 Install dependencies by
+
 `pip install -r requirments.txt`
+
 change configration in last of this file
+
 Run this tool
+
 `python zoho.mail`
 
 for any bug or problem please feel free to launch an issue here.

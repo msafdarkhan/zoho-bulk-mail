@@ -12,7 +12,7 @@ Install dependencies by
 
 `pip install -r requirments.txt`
 
-change configration in last of this file
+change configration in last of zoho.py script
 
 Run this tool
 
